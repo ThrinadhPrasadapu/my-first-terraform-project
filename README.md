@@ -31,6 +31,6 @@ Before running this project, make sure you have:
 ---
 
 ⚙️ To Execute Terraform Then run these commands:
--**terraform init**
--**terraform plan**
--**terraform apply -auto-approve**
+- **terraform init**
+- **terraform plan**
+- **terraform apply -auto-approve**
