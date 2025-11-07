@@ -28,6 +28,7 @@ Before running this project, make sure you have:
   ```bash
   aws configure
 
+---
 
 ⚙️ To Execute Terraform Then run these commands:
 -**terraform init**
